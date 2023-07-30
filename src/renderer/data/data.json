@@ -1,0 +1,52 @@
+[
+  {
+    "question": "If you restart your computer by switching it off (i.e. power cut), it is known as …",
+    "answers": [
+      "Soft boot",
+      "Cold boot",
+      "Warm boot",
+      "A & C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who among the following has designed the Python programing language?",
+    "answers": [
+      "Larry Wall",
+      "Guido van Rossum",
+      "Joe Armstrong",
+      "Yukihiro Matsumoto"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who among the following is popular as ‘Mother of Internet?’",
+    "answers": [
+      "Radia Perlman",
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Anita Borg"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "One of the major works of software is to transform data into ……",
+    "answers": [
+      "Information",
+      "Video",
+      "Website",
+      "Software program"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which among the following is not correctly defines a functional domain name?",
+    "answers": [
+      ".net",
+      ".org",
+      ".gov",
+      ".god"
+    ],
+    "correctAnswer": 3
+  }
+]

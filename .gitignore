@@ -1,0 +1,15 @@
+node_modules
+assets
+.erb
+.vscode
+release
+erb
+.github
+editorconfig
+eslintignore
+eslintrc.js
+gitignore
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+LICENSE
+package-lock.json
